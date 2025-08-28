@@ -1,4 +1,4 @@
 FROM alpine:latest
 
-COPY files/ /home/house/
+COPY files /home/house
 
